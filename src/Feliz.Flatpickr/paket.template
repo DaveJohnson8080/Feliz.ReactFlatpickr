@@ -10,4 +10,4 @@ dependencies
 files
     *.fsproj ==> fable
     *.fs ==> fable
-    README.md ==> docs
+    ../../README.md ==> docs
