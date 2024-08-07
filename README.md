@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/j5jtme743k2lhar7?svg=true)](https://ci.appveyor.com/project/DaveJohnson8080/feliz-reactflatpickr) [![NuGet](https://img.shields.io/nuget/v/Feliz.Feliz.ReactFlatpickr.svg?style=flat-square)](https://www.nuget.org/packages/Feliz.ReactFlatpickr/)
+[![Build status](https://ci.appveyor.com/api/projects/status/bks0h5ho3hj82c2w?svg=true)](https://ci.appveyor.com/project/DaveJohnson8080/feliz-reactflatpickr) [![NuGet](https://img.shields.io/nuget/v/Feliz.Feliz.ReactFlatpickr.svg?style=flat-square)](https://www.nuget.org/packages/Feliz.ReactFlatpickr/)
 
 # Feliz.ReactFlatpickr
 
