@@ -1,0 +1,10 @@
+source https://api.nuget.org/v3/index.json
+
+storage: none
+
+nuget Fake.Core.ReleaseNotes
+nuget Fake.Core.Target
+nuget Fake.DotNet.Cli
+nuget Fake.JavaScript.Npm
+nuget Feliz
+nuget MSBuild.StructuredLogger 2.2.206

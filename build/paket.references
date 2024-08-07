@@ -1,0 +1,7 @@
+Fake.Core.Target
+Fake.Core.ReleaseNotes
+Fake.DotNet.Cli
+Fake.IO.FileSystem
+Fake.JavaScript.Npm
+MSBuild.StructuredLogger
+System.Text.Json
