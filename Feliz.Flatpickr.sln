@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EB33C205-2552-4200-888C-ED00BB6B4B44}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Feliz.Flatpickr", "src\Feliz.Flatpickr\Feliz.Flatpickr.fsproj", "{7A3F7D36-FB47-4AB7-BEFB-A9E04BB545F0}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Feliz.Flatpickr", "src\Feliz.ReactFlatpickr\Feliz.ReactFlatpickr.fsproj", "{7A3F7D36-FB47-4AB7-BEFB-A9E04BB545F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
